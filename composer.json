@@ -1,0 +1,12 @@
+{
+    "name": "shrikantkapare/demo-composer",
+    "description": "Demo Hello",
+    "require": {
+        "php": "^7.2"       
+    },
+    "autoload": {
+        "psr-4": {
+            "shrikantkapare\\demo-composer\\": "src"
+        }      
+    }
+}
