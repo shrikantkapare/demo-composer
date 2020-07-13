@@ -1,12 +1,8 @@
 {
-    "name": "shrikantkapare/demo-composer",
+    "name": "shrikantkapare-demo-composer",
     "description": "Demo Hello",
     "require": {
-        "php": "^7.0"       
-    },
-    "autoload": {
-        "psr-4": {
-            "shrikantkapare\\demo-composer\\": "^1.0"
-        }      
+        "php": "^7.0" ,
+		"shrikantkapare/demo-composer": "^1.0"	       
     }
 }
