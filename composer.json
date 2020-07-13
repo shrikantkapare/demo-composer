@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "shrikantkapare\\demo-composer\\": "src"
+            "shrikantkapare\\demo-composer\\": "^1.0"
         }      
     }
 }
