@@ -1,8 +1,6 @@
 {
-    "name": "shrikantkapare-demo-composer",
-    "description": "Demo Hello",
     "require": {
         "php": "^7.0" ,
-		"shrikantkapare/demo-composer": "^1.0"	       
+	"shrikantkapare/demo-composer": "^1.0"	       
     }
 }
