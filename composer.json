@@ -1,6 +1,7 @@
 {
-    "require": {
-        "php": "^7.0" ,
-	"shrikantkapare/demo-composer": "^1.0"	       
-    }
+	"name": "shrikant/Hello",
+    	"require": {
+        	"php": "^7.0" ,
+		"shrikantkapare/demo-composer": "^1.0"	       
+    	}
 }
